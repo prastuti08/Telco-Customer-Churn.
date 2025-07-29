@@ -28,12 +28,11 @@ This project predicts whether a customer will churn (leave the company) using ma
  - Accuracy, Precision, Recall, F1-score, and Confusion Matrix analysis.
 
 ## Visualizations
-Here are some examples from the analysis:
-Churn rate by Contract Type
-Churn rate by Payment Method
-Internet Service vs Churn
+## Here are some examples from the analysis:
+- Churn rate by Contract Type
+- Churn rate by Payment Method
+- Internet Service vs Churn
 
-Support Vector Machine (SVM)
 ## Steps in the Project  
 1. Data Cleaning & Handling Missing Values  
 2. Exploratory Data Analysis (EDA) – understanding patterns in churn  

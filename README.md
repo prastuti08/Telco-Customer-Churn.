@@ -10,22 +10,22 @@ This project predicts whether a customer will churn (leave the company) using ma
 ## Key Features
 1. Data Cleaning & Transformation
 
- Handled missing and inconsistent values (e.g., TotalCharges column).
- Converted categorical variables using encoding techniques.
+ - Handled missing and inconsistent values (e.g., TotalCharges column).
+ - Converted categorical variables using encoding techniques.
 
 2. Exploratory Data Analysis (EDA)
 
- Identified patterns like churn rates by contract type, payment method, internet service, etc.
- Compared senior citizen vs non-senior churn rates.
+ - Identified patterns like churn rates by contract type, payment method, internet service, etc.
+ - Compared senior citizen vs non-senior churn rates.
 
 3. Machine Learning Models
 
- Logistic Regression
- Random Forest Classifier
- Support Vector Machine (SVM)
+ - Logistic Regression
+ - Random Forest Classifier
+ - Support Vector Machine (SVM)
 
 4. Model Evaluation
- Accuracy, Precision, Recall, F1-score, and Confusion Matrix analysis.
+ - Accuracy, Precision, Recall, F1-score, and Confusion Matrix analysis.
 
 ## Visualizations
 Here are some examples from the analysis:
